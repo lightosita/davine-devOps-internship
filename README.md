@@ -1,4 +1,4 @@
-# Davine DevOps Internship — Week 2: Git & GitHub Practice
+i# Davine DevOps Internship — Week 2: Git & GitHub Practice
 
 ## Overview
 Practical exercises completed for Week 2 of the Davine Technologies DevOps Internship, covering Git fundamentals, GitHub collaboration, branching, merging, and rebase.
@@ -19,4 +19,4 @@ Practical exercises completed for Week 2 of the Davine Technologies DevOps Inter
 - Resolving real authentication issues (token-based auth over HTTPS)
 
 ## Author
-Light Osita-Amaechi — DevOps Intern, Davine Technologies# davine-devOps-internship
+Light Osita-Amaechi — DevOps Intern, Davine Technologies
