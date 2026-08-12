@@ -1,0 +1,9 @@
+# Editor files
+*.swp
+.vscode/
+
+# Logs
+*.log
+
+# Environment/secrets
+.env
